@@ -1,0 +1,952 @@
+ 
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "3",
+      "GENE ": "ACE2",
+      "Gene_description": "ANGIOTENSIN I-CONVERTING ENZYME 2 (ACE2) is an enzyme attached to the outer surface of cells in the lungs, arteries, and intestines that lowers blood pressure by converting angiotensin II (a vasoconstrictor peptide) into angiotensin (1-7) (a vasodilator).  ACE2 also serves as the site of cell entry for some coronaviruses, including SARS-CoV-2, the virus that causes COVID-19.  The spike protein of the virus attaches to the enzymatic domain of ACE2 and cleavage of the spike protein by a host protease (TMPRSS2) triggers subsequent internalization of the virus into the cell for further replication and infection.  Variants in ACE2 can be detrimental to virus infection by either affecting the binding of the virus particle to ACE2, the accessibility of the host protease to the spike cleavage site of the virus, or the ability to be internalized.",
+      "rsID ": "rs766996587",
+      "gene_variants": "M82T",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "M82T\r\n\r\n\r\nNM_021804.3:c.245T>C\r\n(p.Met82Thr)",
+      // "CHROMOSOMAL LOCATION ": "Chr X: 15613068 A> G",
+      "genotypes": "CC",
+      "RATING": "1",
+      "variant_summary": "You carry the M82T gene variant which alters a CRITICAL RESIDUE IN ACE2 CRUCIAL FOR VIRAL BINDING.  Using in vitro mutational analysis M82 was found to be a critical amino acid residue of ACE2 reported for its interaction with spike proteins of SARS-CoV1 and SARS-CoV-2.  Carrying this variant should prevent binding and infection by the coronavirus making you resistant to SARS-CoV-2 infection.  M82T was also identified a rare variant mostly found in European non-Finnish and African populations. \r\nCurrently evidence on this variant are based only on in vitro assays and structural prediction models. However, further clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the coronavirus binding and infection in humans.",
+      "reference_pmid": "https://www.biorxiv.org/content/10.1101/2020.03.04.976027v1.full.pdf\r\n\r\n[PMID: 15791205 , 32249956 suppl table 1, 16166518 ]\r\n\r\nhttps://www.ncbi.nlm.nih.gov/Structure/pdb/6LZG"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "M82T",
+      "genotypes": "CT",
+      "RATING": "1",
+      "rsID ": "rs766996587",
+      "CATEGORY DESCRIPTION": "Viruses infect cells by hijacking your cellular machinery for its own use.  This includes the virus binding to a naturally occurring receptor on your cell surfaces, internalizing the virus and providing an environment to reproduce its genome as well as all of its viral components. New viruses are assembled then secreted from the cell for subsequent amplification and spread of infection.  There are several ways that virus infection can be disrupted and we have identified 5 genes and a number of variants that may impact coronavirus replication.  The most studied gene impacting coronavirus infection is the ACE2 gene which is the cellular receptor for these viruses including SARS CoV-2.  We have analyzed you for 14 different variants within the ACE2 gene some of which reduce infectivity by the virus and others that promote or correlate with infectivity or infected individuals.  The ANPEP gene has also been identified as another potential receptor to the virus. "
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "DNR",
+      "genotypes": "TT",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "rsID ": "rs766996587",
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "4",
+      "GENE ": "ACE2",
+      "rsID ": "rs759134032",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "P84 \r\n\r\nNM_021804.3:c.250C>A\r\n(p.Pro84Thr)",
+      // "CHROMOSOMAL LOCATION ": "Chr X : 15613063 G > T",
+      "genotypes": "GG",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "https://www.biorxiv.org/content/10.1101/2020.03.04.976027v1.full.pdf\r\n\r\n[PMID: 15791205 , 32249956 suppl table 1, 16166518 ]\r\n\r\nhttps://www.ncbi.nlm.nih.gov/Structure/pdb/6LZG"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "P84T",
+      "genotypes": "GT",
+      "RATING": "1",
+      "rsID ": "rs759134032",
+      "variant_summary": "You carry the P84T gene variant which alters a CRITICAL RESIDUE IN ACE2 CRUCIAL FOR VIRAL BINDING.  Using in vitro mutational analysis P84 was found to be a critical amino acid residue of ACE2 reported for its interaction with spike proteins of SARS-CoV1 and SARS-CoV-2.  Carrying this variant should prevent binding and infection by the coronavirus making you resistant to SARS-CoV-2 infection. P84 was also identified as a rare variant mostly found in European non-Finnish and African populations. \r\nCurrently evidence on this variant are based only on in vitro assays and structural prediction models. However, further clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the coronavirus binding and infection in humans."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "P84T",
+      "genotypes": "TT",
+      "RATING": "1",
+      "rsID ": "rs759134032",
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "6",
+      "GENE ": "ACE2",
+      "rsID ": "rs143936283",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "E329G\r\n\r\nNM_021804.3:c.986A>G\r\n(p.Glu329Gly)",
+      // "CHROMOSOMAL LOCATION ": "Chr X: 15599428 T>C ",
+      "genotypes": "TT",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "PMID: 32249956\r\n\r\nfill article link - \r\nhttps://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.25832"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "E329G",
+      "genotypes": "TC",
+      "RATING": "2",
+      "rsID ": "rs143936283",
+      "variant_summary": " You carry the E329G gene variant which LACKS THE CRITICAL RESIDUES IN ACE2 CRUCIAL FOR  VIRAL BINDING. E329 is a resistant ACE2 variant which showed less charged-charged, charged-polar, charged-apolar, polar-apolar and apolar-apolar interactions with SARS-CoV-2 spike protein. This variant exhibits low binding affinity and lacks of some of the key residues required for interaction with the SARS-CoV-2 spike protein.  Protein homology modelling studies suggest that the ACE2 S19P variant in humans may confer some level of resistance against the attachment of SARS-CoV-2 to the receptor molecule.  The ACE2 E29G variant may contribute to a positive prognosis of  COVID-19 in individuals that carry this variant.\r\nCurrently there is only structural and prediction models evidence on this variant. However, further clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the coronavirus binding and infection in humans."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "E329G",
+      "genotypes": "CC",
+      "RATING": "2",
+      "rsID ": "rs143936283",
+      "variant_summary": " You carry the E329G gene variant which LACKS THE CRITICAL RESIDUES IN ACE2 CRUCIAL FOR  VIRAL BINDING. E329 is a resistant ACE2 variant which showed less charged-charged, charged-polar, charged-apolar, polar-apolar and apolar-apolar interactions with SARS-CoV-2 spike protein. This variant exhibits low binding affinity and lacks of some of the key residues required for interaction with the SARS-CoV-2 spike protein.  Protein homology modelling studies suggest that the ACE2 S19P variant in humans may confer some level of resistance against the attachment of SARS-CoV-2 to the receptor molecule.  The ACE2 E29G variant may contribute to a positive prognosis of  COVID-19 in individuals that carry this variant.\r\nCurrently there is only structural and prediction models evidence on this variant. However, further clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the coronavirus binding and infection in humans."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "7",
+      "GENE ": "ACE2",
+      "rsID ": "rs148771870",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "G211R\r\n\r\nNM_021804.3:c.631G>A\r\n(p.Gly211Arg)",
+      // "CHROMOSOMAL LOCATION ": "Chr X: 15607532 C>T",
+      "genotypes": "CC",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "https://www.medrxiv.org/content/10.1101/2020.04.03.20047977v1",
+      "EXTRA notes and Comments": "rs148771870 exported from Varsome "
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "G211R",
+      "genotypes": "CT",
+      "RATING": "3",
+      "rsID ": "rs148771870",
+      "variant_summary": " You carry the G211R gene variant which is situated in a region of ACE2 protein that may impact protein cleavage and stabilization suggests that individuals carrying this variant may have a reduced ability to be infected by the coronavirus.  However, a study on ACE2 variants underlying the inter-individual variability and susceptibility to COVID-19 in Italian populations indicated that the G211R variant was moderately expressed in the Italian and European-non Finnish populations with a very low allele frequency, if at all, in the Eastern Asia population. \r\nCurrently only allele frequency, structural, and prediction model evidence are available on this variant. However, further clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the coronavirus binding and infection in humans"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "G211R",
+      "genotypes": "TT",
+      "RATING": "3",
+      "rsID ": "rs148771870",
+      "variant_summary": " You carry the G211R gene variant which is situated in a region of ACE2 protein that may impact protein cleavage and stabilization suggests that individuals carrying this variant may have a reduced ability to be infected by the coronavirus.  However, a study on ACE2 variants underlying the inter-individual variability and susceptibility to COVID-19 in Italian populations indicated that the G211R variant was moderately expressed in the Italian and European-non Finnish populations with a very low allele frequency, if at all, in the Eastern Asia population. \r\nCurrently only allele frequency, structural, and prediction model evidence are available on this variant. However, further clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the coronavirus binding and infection in humans"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "8",
+      "GENE ": "ACE2",
+      "rsID ": "rs762890235",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "P389H",
+      // "CHROMOSOMAL LOCATION ": "ChrX:15596343 G>T",
+      "genotypes": "GG",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "https://www.medrxiv.org/content/10.1101/2020.04.03.20047977v1.full.pdf\r\n\r\n"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "P389H",
+      "genotypes": "GT",
+      "RATING": "3",
+      "rsID ": "rs762890235",
+      "variant_summary": "You carry the P389H gene variant which has been predicted to cause conformational changes impacting interaction with the receptor binding domain. This variant was predicted to be damaging and detrimental based on insilico predictors.  This suggests that individuals carrying this variant may have a reduced ability to be infected by the coronavirus.  However, this P389H is a rare variant in the European-non Finnish populations and has never been reported in Asian populations. \r\nCurrently there is only structural and prediction models evidence on this variant are available at this time. However, further clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the coronavirus binding and infection in humans."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "P389H",
+      "genotypes": "TT",
+      "RATING": "3",
+      "rsID ": "rs762890235"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "9",
+      "GENE ": "ACE2",
+      "rsID ": "rs4646116",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "K26R\r\n\r\nNM_021804.3:c.77A>G\r\n(p.Lys26Arg)",
+      // "CHROMOSOMAL LOCATION ": "ChX: 15618958 T>C",
+      "genotypes": "TT",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "PMID: 32133153\r\nhttps://www.medrxiv.org/content/10.1101/2020.04.03.20047977v1\r\n",
+      "EXTRA notes and Comments": " seven hotspot variants (Lys26Arg, Ile468Val, Ala627Val, Asn638Ser, Ser692Pro, Asn720Asp, and Leu731Ile/Leu731Phe) in different populations. \r\nAFs of ACE2 coding variants among different populations suggested that the diverse genetic basis might affect ACE2 functions among populations\r\nA study on the novel coronavirus- 2019';\r\n  can partially account for the higher morbidity and lethality of Italians\r\nobserved in the Italian and European-non Finnish population. "
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "K26R",
+      "genotypes": "TC",
+      "RATING": "4",
+      "rsID ": "rs4646116",
+      "variant_summary": "You carry the K26R gene variant which has been predicted to interfere with protein cleavage and stabilization as it is situated adjacent to a protease cleavage site that may affect cleavage dependent virion intake.  This suggests that individuals carrying this variant may have a reduced ability to be infected by the coronavirus.  A study on ACE2 variants underlying the interindividual variability and susceptibility to COVID-19 in Italian populations indicated that the K26R variant was moderately expressed in the Italian and European-non Finnish populations and at a very low allele frequency, if at all, in the Eastern Asia population.    Also, the K26R variant was reported as one of the hotspot variants reported in different populations in a SARS CoV-2 study so it is unlikely that this variant is totally protective of virus infection.\r\nCurrently there are only Allele frequency, structural /prediction models evidence on this variant are available at this time. However, further clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the coronavirus binding and infection in humans"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "K26R",
+      "genotypes": "CC",
+      "RATING": "4",
+      "rsID ": "rs4646116"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "10",
+      "GENE ": "ACE2",
+      "rsID ": "rs191860450",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "I468V\r\n\r\nNM_021804.2: c.1402A>G\r\n(Ile468Val)",
+      // "CHROMOSOMAL LOCATION ": "Chr X: 15593829 T >C",
+      "genotypes": "TT",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "32133153"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "I468V",
+      "genotypes": "TC",
+      "RATING": "4",
+      "rsID ": "rs191860450",
+      "variant_summary": " You carry the I468V gene variant that was identified as a hotspot variants reported in different populations in a SARS CoV-2 study.   This suggests that this variant is unlikely to be protective of virus infection.\r\n\r\nCurrently there is only occurence or allele frequency data in different populations available at this time. However, further structural, functional and clinical studies or any other relevant data may help in ascertaining the role (if any) of this variant in the disease susceptibility."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "I468V",
+      "genotypes": "CC",
+      "RATING": "4",
+      "rsID ": "rs191860450"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "11",
+      "GENE ": "ACE2",
+      "rsID ": "rs748163894",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "NM_021804.3: c.1880C>T (Ala627Val)",
+      // "CHROMOSOMAL LOCATION ": "ChrX: 15588434 G >A",
+      "genotypes": "GG",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "32133153"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "A627V",
+      "genotypes": "GA",
+      "RATING": "4",
+      "rsID ": "rs748163894",
+      "variant_summary": "You carry the A627V gene variant that was identified as a hotspot variants reported in different populations in a SARS CoV-2 study.   This suggests that this variant is unlikely to be protective of virus infection.\r\nCurrently there is only occurrence or allele frequency data in different populations available at this time. However, further structural, functional and clinical studies or any other relevant data may help in ascertaining the role (if any) of this variant in the disease susceptibility."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "A627V",
+      "genotypes": "AA",
+      "RATING": "4",
+      "rsID ": "rs748163894"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "12",
+      "GENE ": "ACE2",
+      "rsID ": "rs183135788",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "N638S\r\n\r\nNM_021804.3:c.1913A>G\r\n(p.Asn638Ser)",
+      // "CHROMOSOMAL LOCATION ": "Chr X: 15585933 T> C",
+      "genotypes": "TT",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "32133153"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "N638S",
+      "genotypes": "TC",
+      "RATING": "4",
+      "rsID ": "rs183135788",
+      "variant_summary": "You carry the N638SS gene variant that was identified as a hotspot variants reported in different populations in a SARS CoV-2 study.   This suggests that this variant is unlikely to be protective of virus infection.\r\nCurrently there is only occurrence or allele frequency data in different populations available at this time. However, further structural, functional and clinical studies or any other relevant data may help in ascertaining the role (if any) of this variant in the disease susceptibility."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "N638S",
+      "genotypes": "CC",
+      "RATING": "4",
+      "rsID ": "rs183135788"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "5",
+      "GENE ": "ACE2",
+      "rsID ": "rs73635825",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "S19P\r\n\r\n\r\nNM_021804.3:c.55T>C\r\n(p.Ser19Pro)",
+      // "CHROMOSOMAL LOCATION ": "Chr X: 15618980 A> G",
+      "genotypes": "AA",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "PMID: 32249956\r\n\r\nfill article link - \r\nhttps://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.25832"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "S19P",
+      "genotypes": "AG",
+      "RATING": "4",
+      "rsID ": "rs73635825",
+      "variant_summary": "You carry the S19P gene variant that was identified as a hotspot variants reported in different populations in a SARS CoV-2 study.   This suggests that this variant is unlikely to be protective of virus infection.\r\nCurrently there is only occurrence or allele frequency data in different populations available at this time. However, further structural, functional and clinical studies or any other relevant data may help in ascertaining the role (if any) of this variant in the disease susceptibility."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "S19P",
+      "genotypes": "GG",
+      "RATING": "4",
+      "rsID ": "rs73635825"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "13",
+      "GENE ": "ACE2",
+      "rsID ": "rs149039346",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "NM_021804.3:c.2074T>C",
+      // "CHROMOSOMAL LOCATION ": "chrX: 15584416 A>G",
+      "genotypes": "AA",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "32133153"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "S692P",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "(p.Ser692Pro)",
+      "genotypes": "AG",
+      "RATING": "4",
+      "rsID ": "rs149039346",
+      "variant_summary": "You carry the S692P gene variant that was identified as a hotspot variants reported in different populations in a SARS CoV-2 study.   This suggests that this variant is unlikely to be protective of virus infection.\r\nCurrently there is only occurrence or allele frequency data in different populations available at this time. However, further structural, functional and clinical studies or any other relevant data may help in ascertaining the role (if any) of this variant in the disease susceptibility."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "S692P",
+      "genotypes": "GG",
+      "RATING": "4",
+      "rsID ": "rs149039346"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "14",
+      "GENE ": "ACE2",
+      "rsID ": "rs41303171",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "N720D\r\n\r\nNM_021804.3:c.2158A>G\r\n(p.Asn720Asp)",
+      // "CHROMOSOMAL LOCATION ": "Chr X: 15582298 T>C",
+      "genotypes": "TT",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "32133153\r\n\r\nhttps://www.corona24.news/c/2020/04/07/high-mortality-from-covid-19-in-italy-is-associated-with-the-features-of-the-gene-pool.html \r\n\r\n\r\n[https://www.medrxiv.org/content/10.1101/2020.04.03.20047977v1]"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "N720D",
+      "genotypes": "TC",
+      "RATING": "4",
+      "rsID ": "rs41303171",
+      "variant_summary": "You carry the N720D gene variant is situated in a region of ACE2  protein that may impact protein cleavage and stabilization suggests that individuals carrying this variant may have a reduced ability to be infected by the coronavirus. However, a study on ACE2 variants underlying the inter-individual variability and susceptibility to COVID-19 in Italian populations indicated that the N720D variant was moderately expressed in the Italian and European-non Finnish populations with a very low allele frequency, if at all, in the Eastern Asia population.  N720D was also identified as a hotspot variants reported in different populations in a SARS CoV-2 study.  This suggests that this variant is unlikely to be totally protective of virus infection.\r\nCurrently there is only occurrence or allele frequency data in different populations available at this time. However, further structural, functional and clinical studies or any other relevant data may help in ascertaining the role (if any) of this variant in the disease susceptibility."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "N720D",
+      "genotypes": "CC",
+      "RATING": "4",
+      "rsID ": "rs41303171"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "15",
+      "GENE ": "ACE2",
+      "rsID ": "no rsID ",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "L731I\r\n\r\nNM_021804.3:c.2191C>A\r\n(p.Leu731Ile)",
+      // "CHROMOSOMAL LOCATION ": "Chr X:15582265 G> T",
+      "genotypes": "GG",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "32133153"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "L731I",
+      "genotypes": "GT",
+      "RATING": "4",
+      "rsID ": "no rsID ",
+      "variant_summary": "You carry the L731I gene variant that was identified as a hotspot variants reported in different populations in a SARS CoV-2 study.  This suggests that this variant is unlikely to be protective of virus infection.\r\nCurrently there is only occurrence or Allele frequency data in different population is available at this time. However, further structural, functional and clinical studies or any other relevant data may help in ascertaining the role (if any) of this variant in the disease susceptibility."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "L731I",
+      "genotypes": "TT",
+      "RATING": "4",
+      "rsID ": "no rsID "
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "16",
+      "GENE ": "ACE2",
+      "rsID ": "rs147311723",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "L731P\r\n\r\nNM_021804.3:c.2191C>T\r\n(p.Leu731Phe)",
+      // "CHROMOSOMAL LOCATION ": "Chr:15582265G>A",
+      "genotypes": "GG",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "32133153"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "L731P",
+      "genotypes": "GA",
+      "RATING": "4",
+      "rsID ": "rs147311723",
+      "variant_summary": "You carry the L731P gene variant that was identified as a hotspot variants reported in different populations in a SARS CoV-2 study.  This suggests that this variant is unlikely to be protective of virus infection.\r\nCurrently there is only occurrence or Allele frequency data in different population is available at this time. However, further structural, functional and clinical studies or any other relevant data may help in ascertaining the role (if any) of this variant in the disease susceptibility."
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "GENE ": "ACE2",
+      "gene_variants": "L731P",
+      "genotypes": "AA",
+      "RATING": "4",
+      "rsID ": "rs147311723"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "17",
+      "GENE ": "ANPEP",
+      "rsID ": "rs17240268 ",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "A311V\r\n\r\nc.956 C>T ( Ala311Val)",
+      "genotypes": "CC",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "15234325",
+      "EXTRA notes and Comments": "rsID deduced using Varisome and checked in dbSNP for accuracy"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "18",
+      "GENE ": "ANPEP",
+      "Gene_description": "Alanyl aminopeptidase, or aminopeptidase N is also a potent angiogenic regulator which also plays a role in the final digestion of peptides generated from hydrolysis of proteins by gastric and pancreatic proteases and has been implicated in acting as a receptor to some coronaviruses.  However, no link to SARS-CoV-2 has been made to date and the mechanism for virus entry is not known.",
+      "rsID ": "rs17240269",
+      "gene_variants": "A311V",
+      "genotypes": "CT",
+      "RATING": "3",
+      "variant_summary": "You carry the A311V variant which occurs in a domain of APN that has been implicated in influencing the capacity to bind to HCoV-229E, one of the first human coronaviruses identified in the mid-1960s. A population study on healthy Caucasian Belgian volunteers revealed an 8.5% prevalence of this variant, most  being heterozygous for this variant allele.  The role of the A311V variant in SARS-CoV-2 infection is unclear.\r\n\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility.",
+      "reference_pmid": "15234326",
+      "EXTRA notes and Comments": "rsID deduced using Varisome and checked in dbSNP for accuracy"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "19",
+      "GENE ": "ANPEP",
+      "rsID ": "rs17240270",
+      "gene_variants": "A311V",
+      "genotypes": "TT",
+      "RATING": "3",
+      "reference_pmid": "15234327",
+      "EXTRA notes and Comments": "rsID deduced using Varisome and checked in dbSNP for accuracy"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "19",
+      "GENE ": "IFITM3",
+      "Gene_description": "INTERFERON-INDUCED TRANSMEMBRANE PROTEIN 3 is an IFN-induced antiviral protein which disrupts intracellular cholesterol homeostasis. Cholesterol depleted endosomes inhibit viral entry into the host cell cytoplasm by preventing viral fusion with endosome during internalization. Newly enveloped viruses which buds out of the infected cell may be inactivated when released with this cholesterol depleted membrane. IFITM 3 is therefore protective of virus infection; one IFITM 3 variant has been associated with susceptibility and severity of influenza infection including H1N1 as well as HIV. Disruption of IFITM3 function thereby allows improved replication of infecting viruses.",
+      "rsID ": "rs12252",
+      "gene_variants": "∆21-C",
+      "genotypes": "GG",
+      "RATING": "7",
+      "variant_summary": "You carry the ∆21-C variant for IFITM3 which is a risk variant for severity of influenza virus infection and has also been observed in a COVID-19 patients.  The ∆21-C variant alters a splice acceptor site which removes 21 amino acids from the amino terminus of the IFITM 3 protein.  In vitro functional assays show that this truncated IFITM3 reduces its ability to restrict influenza virus replication.  Therefore, carrying ∆21-C variant could make you more susceptible to virus infection with homozygous carriers susceptible to severe infections and being highly contagious.  The allele frequencies of ∆21-C vary significantly among different populations with it being prevalent in the Chinese and Japanese populations and less prevalent in Northern Europeans and Britain. \r\nMost studies to date have been limited to influenza viruses, further functional and clinical studies with SARS-CoV-2 virus may help in ascertaining the role (if any) of this variant in the virus susceptibility.",
+      "reference_pmid": "https://www.nature.com/articles/s41591-020-0819-2.pdf",
+      "EXTRA notes and Comments": "rsID [PMID: 23361009 ]"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "∆21-C",
+      "genotypes": "AG",
+      "RATING": "7",
+      "rsID ": "rs12252",
+      "reference_pmid": "https://www.nature.com/articles/s41591-020-0819-2.pdf"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "DNR",
+      "genotypes": "AA",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "https://www.nature.com/articles/s41591-020-0819-2.pdf",
+      "EXTRA notes and Comments": "IFITM3 this gene is in <10",
+      "rsID ": "rs12252"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "21",
+      "GENE ": "OAS1 ",
+      "rsID ": "rs2660",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "position 347 in the 3'-UTR\r\n\r\nc.+1295A>G\r\n ",
+      "genotypes": "AA",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "16824203"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Gene_description": "2-PRIME,5-PRIME-OLIGOADENYLATE SYNTHETASE 1 is a key antiviral enzyme that is induced by interferons.  OAS restricts viral infection by binding to double stranded RNA (dsRNA) which triggers subsequent binding and activation of RNase L resulting in the degradation of viral RNA and inhibition of viral replication.  Variants in OAS have been shown limit HCV virus infection and are also associated with protection from persistent SARS CoV infection.  ",
+      "gene_variants": "+1295 A>G\r\n(R397G)",
+      "genotypes": "AG",
+      "RATING": "2",
+      "rsID ": "rs2660",
+      "variant_summary": "You carry the +1295G gene variant that is located in exon 6 of the OAS gene and may have multiple functions as it is situated in the 3’ UTR of two OAS isoform transcripts  but introduces a mutation near the Bcl-2 homology domain in an alternately spliced OAS1 isoform transcript.  It is unclear if this mutation impacts the function of OAS1. Individuals who carry one or two copies of the G allele of +1295G (AG or GG) conferred protection against SARS-CoV infection and were associated with a protective effect on SARS development.  ",
+      "reference_pmid": "16824203, 20462354",
+      "EXTRA notes and Comments": "These two polymorphisms in the OAS-1 gene are reported in strong linkage disequilibrium"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "+1295 A>G\r\n(R397G)",
+      "genotypes": "GG",
+      "RATING": "2",
+      "rsID ": "rs2660",
+      "reference_pmid": "16824203, 20462354"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Sl.No": "22",
+      "GENE ": "OAS1 ",
+      "rsID ": "rs1131454",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "G162S\r\n\r\nc.484G>A (p.Gly162Ser)\r\nExon 3 ",
+      "genotypes": "AA",
+      "RATING": "DNR",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "15766558"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "G162S",
+      "genotypes": "AG",
+      "RATING": "6",
+      "rsID ": "rs1131454",
+      "variant_summary": "You carry the G162S variant of OAS which is located near the dsRNA binding domain of OAS-1.  The precise role of this mutation on dsRNA binding is unknown.   Individuals who carry one or two copies of the G allele of G162S (AG or GG) were more likely to be infected by the SARS CoV virus.  While carriers of two copies of the A allele (AA) were less likely to be infected and suspected to respond more effectively to interferon thereby limiting virus infection.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility.",
+      "reference_pmid": "15766558"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "gene_variants": "G162S",
+      "genotypes": "GG",
+      "RATING": "6",
+      "rsID ": "rs1131454",
+      "reference_pmid": "15766558"
+    },
+    {
+      "Sl.No": "20",
+      "GENE ": "MX1 ",
+      "rsID ": "rs2071430",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": " -88G>T\r\n(promoter region) ",
+      "genotypes": "GG",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "GG genotype correlation in the context of susceptibility to SARS coronavirus infection has not been previously described in literature. However other -88 positive genotypes such as TT/GT are reported to be associated with decreased susceptibility to SARS coronavirus infection [PMID: 20462354]",
+      "reference_pmid": "20462354"
+    },
+    {
+      "CATEGORY": "1. Susceptibility to Coronavirus Infection",
+      "Gene_description": "MX1 gene encodes Myxovirus resistance A (MxA) which is a GTPase induced by interferon α and β (IFN-α, IFN-β) that can inhibit viral replication.  MxA inhibits a broad spectrum of viruses and although the precise molecular mechanism of virus inhibition is not known, it likely involves assembly of a multimeric structure that binds to the virus during transcription and replication.  ",
+      "gene_variants": "-88 G>T",
+      "genotypes": "GT",
+      "RATING": "2",
+      "rsID ": "rs2071430",
+      "variant_summary": "-88T variant occurs in the regulatory region of the MX1 gene and improves alignment with the consensus sequences required for interferon induced gene expression.  Upon virus infection and interferon production, more Mx1 is produced and virus replication is inhibited. Carriers of the -88T variant of MX1 were significantly associated with decreased susceptibility to SARS coronavirus infection. \r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility",
+      "reference_pmid": "20462354, 16824203",
+      "EXTRA notes and Comments": "MX1 this gene is in <10"
+    },
+    {
+      "gene_variants": "-88 G>T",
+      "genotypes": "TT",
+      "RATING": "2",
+      "rsID ": "rs2071430",
+      "reference_pmid": "20462354",
+      "EXTRA notes and Comments": "rsID taken from [PMID :23438650]"
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "Sl.No": "1",
+      "GENE ": "MBL2",
+      "rsID ": " rs1800450",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "\r\nG54D\r\n\r\nc.161G>A (Gly54Asp)\r\n\r\nA generally referred as B allele, G referred as A allele ",
+      "genotypes": "GG",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "16170752, 16185324",
+      "EXTRA notes and Comments": "230G>A (A/B, codon 54) in the paper "
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "Gene_description": "Mannose-binding lectin (MBL) protein 2 is a serum protein that is part of the acute-phase response to viral and bacterial infections.  MBL2 contains carbohydrate binding sites which specifically match up to mannose and fucose residues in bacterial cell walls and viral particles which upon binding triggers inflammatory responses to destroy the virus or bacteria.   The amounts of MBL in human plasma are genetically determined Variant alleles causing low plasma concentrations of functional MBL have been shown to be associated in both children and adults with an increased risk of developing infections. Genetic variants have been associated with lower than normal levels of serum mannose-binding lectin (MBL) levels are associated with an increased susceptibility to SARS.  ",
+      "gene_variants": "G54D",
+      "genotypes": "GA",
+      "RATING": "6",
+      "rsID ": " rs1800450",
+      "variant_summary": "You carry the G54D variant with at least one A allele in its genotype.  This variant is associated with lower levels of MBL and is regarded as a risk factor for an increased susceptibility to SARS-CoV infection.  You may have an even greater risk for development of SARS if you also carry a variant in the CCL-2 gene.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility  ",
+      "reference_pmid": "16170752, 16185324",
+      "CATEGORY DESCRIPTION": "The innate immunity is our first line of defense against pathogens and viruses such as SARS-CoV-2.  The main purpose of the innate immune responses is to immediately prevent the spread and movement of foreign pathogens throughout the body before they can start an infection.  These defenses can be physical, chemical or cellular.  Your skin, epithelial cells, and mucus are examples of the physical barrier between the inside of the body and the outside world and protect us from infections.  There are several different kinds of proteins that serve as chemical defenses.  These include the intracellular enzymes and proteins that may disrupt viral replication and secretion.  There are a number of circulating molecules in that recognize conserved features of pathogens that are not normally present in our bodies. Upon binding to the pathogen-specific features can trigger a cascade of responses such as complement activation which disrupts the membrane or viral coat of the microorganism or attract immune cells to a specific location for ingestion and destruction and , or to produce an inflammatory response to trigger the adaptive immune response, the second line of defense which is responsible for a more targeted attack on the pathogen including recruitment of cells with killing activity and production of specific antibodies."
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "gene_variants": "G54D",
+      "genotypes": "AA",
+      "RATING": "6",
+      "rsID ": " rs1800450",
+      "reference_pmid": "16170752, 16185324",
+      "EXTRA notes and Comments": "rs7096206 \r\nrsID information from [PMID: 24126531, 28698271]"
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "Sl.No": "29",
+      "GENE ": "AHSG ",
+      "rsID ": "rs2248690",
+      "gene_variants": "-799 A>T",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "−799A/T",
+      "genotypes": "AA",
+      "RATING": "2",
+      "variant_summary": " You carry the -799T variant with two A alleles in its genotype.  The AA genotype leads to higher AHSG serum concentrations and was significantly associated with protection against SARS development. It has been reported that the A allele of -799T has a reduced binding to API thereby allowing increased AHSG expression.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility  ",
+      "reference_pmid": "PMID: 21904596 ",
+      "EXTRA notes and Comments": "MUST INCLUDE "
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "Gene_description": "Alpha-2-HS-glycoprotein (AHSG) is also known as fetuin-A and encodes a multifunctional phosphorylated extracellular calcium-regulatory glycoprotein that is an acute phase protein that is negatively regulated during infection or other inflammatory illness.  AHSG levels decrease in response to several proinflammatory cytokines such as TNF, IL-1, IL-6 and IFN-γ.  Patients with other inflammatory diseases such as pancreatitis, chronic kidney diseases, and rheumatoid arthritis display decreased levels of AHSG.  AHSG deficiency is also associated with chronic kidney disease and contributes to vascular complications  In these inflammatory diseased patients, circulating AHSG levels negatively correlated with levels of cytokines (such as IL-6), and associated with increased mortality rates. \r\nIn vitro experiments suggest that SARS-CoV nucleocapsid protein can associate with AHSG thereby neutralizing the pro-inflammatory effect of the SARS nucleocapsid protein since AHSG is so abundant in the serum (0.2–0.55 mg/ml).\r\nOne specific genotype affects the transcriptional activity of the AHSG promoter which leads to a higher AHSG serum concentrations and has been associated with protection against SARS development while other genotypes in this region have been associated with susceptibility to SARS.    \r\nAnother polymorphism of AHSG located within the coding region is associated with an increased susceptibility of developing clinically apparent SARS but the mechanism by which susceptibility is increased is unknown.",
+      "gene_variants": "-799 A>T",
+      "genotypes": "AT",
+      "RATING": "6",
+      "rsID ": "rs2248690",
+      "variant_summary": "You carry the -799T variant with at least one T allele in its genotype.  The T allele affects the promoter region of the ASHG gene where the transcription factor AP1 binds and represses AHSG expression thereby lowering AHSG levels.  Carrying one of two copies of the T allele (TA or TT) is regarded as a risk factor for an increased susceptibility to SARS-CoV infection. By contrast, the AA genotype leads to higher AHSG serum concentrations and was significantly associated with protection against SARS development. It has been reported that the A allele of -799T has a reduced binding to API thereby allowing AHSG expression.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility. ",
+      "reference_pmid": "PMID: 21904596 "
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "gene_variants": "-799 A>T",
+      "genotypes": "TT",
+      "RATING": "6",
+      "rsID ": "rs2248690",
+      "reference_pmid": "PMID: 21904596 "
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "Sl.No": "30",
+      "GENE ": "AHSG ",
+      "rsID ": "rs4917\r\n",
+      "gene_variants": "M248T",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "M248T\r\n\r\nc.743T>C (p.Met248Thr)",
+      "genotypes": "CC",
+      "RATING": "2",
+      "variant_summary": "You carry the M248 variant with two CC alleles in its genotype. Carrying the two CC alleles showed the strongest association with elevated ASHG concentrations compared to other ASHG SNPs including those that have been shown to be protective against SARS development.  This suggests that your genotype is also protective against SARS development.  \r\n Further functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility  ",
+      "reference_pmid": "PMID: 21904596, 20031641"
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "gene_variants": "M248T",
+      "genotypes": "CT",
+      "RATING": "6",
+      "rsID ": "rs4917\r\n",
+      "variant_summary": "You carry at least one copy of M248T variant with at least one T allele that has been associated with an increased possibility of developing clinically apparent SARS. The mechanism by which protection is increased is unknown. Carrying one of two copies of the T allele (TA or TT) is regarded as a risk factor for an increased susceptibility to SARS-CoV infection. By contrast, the CC showed the strongest association with elevated ASHG concentrations compared to other variants which have been shown to be protective against SARS development.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility  ",
+      "reference_pmid": "PMID: 21904596, 20031642"
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "gene_variants": "DNR",
+      "genotypes": "TT",
+      "RATING": "6",
+      "rsID ": "rs4917\r\n",
+      "reference_pmid": "PMID: 21904596, 20031643"
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "Sl.No": "28",
+      "GENE ": "CD14",
+      "rsID ": " \r\nrs2569190",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": " (−159 C/T) SNP",
+      "genotypes": "AA",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "17913858"
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "Gene_description": "CD14 is also known as the monocyte differentiation antigen which detects bacteria in the body by binding to lipopolysaccharide (LPS), a component of the bacterial cell surface and results in cellular activation and production of proinflammatory mediators and protection from infection.  Elevated levels of CD14 has been implicated in sepsis, toxic shock syndrome, and other acute inflammatory responses.\r\nA polymorphism in CD14 can decrease CD14 levels and the inflammatory response following LPS stimulation.  This polymorphism is also associated with the severity of SARS-CoV infection where patients homozygous for the polymorphism were submitted to the Intensive Care Unit suggesting that reduced CD14 levels may contribute to have reduced antiviral activity and thus experience enhanced viral toxicity, resulting in a more severe form of SARS-CoV infection, but the exact mechanism of CD14 in response to viruses is not clear.",
+      "gene_variants": "-159 T>C",
+      "genotypes": "AG",
+      "RATING": "7",
+      "rsID ": " \r\nrs2569190",
+      "variant_summary": "You carry the -159C variant with at least one allele in its genotype.  This variant affects the promoter region of the CD14 gene and homozygous carriers have a significant decrease in soluble CD14 levels which have been implicated in acute inflammatory responses.  Carrying one copy of this variant is regarded as a risk factor for mild susceptibility to SARS-CoV infection. However, homozygous genotypes have been reported to have an increased risk for developing SARS and being submitted to the Intensive Care Units of hospitals. \r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility  ",
+      "reference_pmid": "17913858"
+    },
+    {
+      "CATEGORY": "2.  Innate Immunity and Antiviral Defense",
+      "gene_variants": "-159 T>C",
+      "genotypes": "GG",
+      "RATING": "7",
+      "rsID ": " \r\nrs2569190",
+      "reference_pmid": " [PMID: 17913858 ]"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "Sl.No": "18",
+      "GENE ": "IFNG",
+      "rsID ": "rs2430561",
+      "gene_variants": "+ 874 A>T",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": " c.+ 874 A> T",
+      "genotypes": "AA",
+      "RATING": "7",
+      "variant_summary": "You carry the +874 A variant with at least one allele in of this genotype.  Functional studies have demonstrated that this variant occurs in a binding site for nuclear factor kappa B and can decrease the overall expression and secretion of IFN-G and ultimately leading to increased viral infection. The +874A variant was significantly associated with SARS-CoV infection and suggests a genetic risk factor for SARS.  In one study it was estimated that individuals with one allele of this variant have a 2.57-fold increased risk of developing SARS, while individuals with both allele had a 5.19-fold increased risk of SARS development. \r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility  ",
+      "reference_pmid": "16672072, 19258635"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "Gene_description": "Interferon-gamma (IFN-G) is a cytokine critical for innate and adaptive immunity against viral and intracellular bacterial infections and for tumor control.  The importance of IFN-G in the immune system stems in part from its ability to inhibit viral replication directly, but most importantly derives from its immunostimulatory and immunomodulatory effects. IFN-G is produced predominantly by natural killer (NK) and natural killer T (NKT) cells as part of the innate immune response, and by CD4 and CD8 cytotoxic T lymphocyte (CTL) effector T cells once antigen-specific immunity develops.  Aberrant IFN-G expression is associated with a number of autoinflammatory and autoimmune diseases.\r\nIFN-G may be involved in SARS pathogenesis and variants in the IFN-G gene impact the regulation of its gene expression where low IFN-G production may impair the anti-viral response against SARS-CoV, rendering these individuals more susceptible to SARS-CoV infection.",
+      "gene_variants": "+ 874 A>T",
+      "genotypes": "AT",
+      "RATING": "7",
+      "rsID ": "rs2430561",
+      "reference_pmid": "16672072, 19258635",
+      "EXTRA notes and Comments": "rsID information [PMID: 28331562]"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "gene_variants": "DNR",
+      "genotypes": "TT",
+      "RATING": "DO NOT REPORT",
+      "rsID ": "rs2430561",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "16672072",
+      "CATEGORY DESCRIPTION": "Pro-inflammatory and anti-inflammatory cytokines are chemical mediators responsible for orchestrating the next phase of defense against infecting pathogens including the production and elevation of body temperature. They are produced transiently and locally and control the amplitude and duration of the immune response. They are responsible for and specific functions of these molecules on different cell types and controlled regulation make it possible for the coordinated recruitment and activation of an entire network of immune cells for subsequent engagement of the adaptive immune response.  \r\n \r\nInappropriate expression of cytokines may lead to overzealous inflammatory responses and ultimately to severe and chronic inflammatory conditions, such as asthma, COPD, autoimmune diseases, and SARS."
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "Sl.No": "2",
+      "GENE ": "CCL2",
+      "rsID ": "rs1024611",
+      "gene_variants": "-2518A>G",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "c.-2518A-G",
+      "genotypes": "GG",
+      "RATING": "7",
+      "variant_summary": "You carry the -2518 A>G variant with at least one allele in of this genotype.  This variant occurs in a binding site for nuclear factor kappa B in the CCL-2 gene and can increase it transcription and expression of CCL-2.  This variant and elevated CCL-2 levels have been associated with a number of chronic inflammatory and autoimmune diseases.  Individuals carrying both variant alleles (GG) have been reported to have significantly increased susceptibility to SARS-CoV infection.  Although carriers of one allele are not associated with increased susceptibility to SARS-CoV infection, there may be a greater risk of SARS development if you also carry the MBL G54D variant.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility  ",
+      "reference_pmid": "25818534"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "Gene_description": "CCL-2/ Monocyte chemotactic protein-1 (MCP1) is a chemokine that plays a role in innate immunity by recruiting monocytes, macrophages and T-lymphocyte in acute inflammatory responses. Overexpression of MCP1 is one of the most prominent chemokines upregulated in SARS-CoV infected lung epithelial cells and is overexpressed in the plasma of SARS patients.    \r\nA polymorphism in CCL-2 is located adjacent to a key promoter element and produces elevated MCP1.  This polymorphism has been reported to be associated with increased susceptibility or severity of diseases such as asthma, atherosclerosis, diabetes, and rheumatoid arthritis.  Carriers of this variant may explain the observed elevated CCL2 levels and the correlation with more advanced disease severity of SARS patients.",
+      "gene_variants": "'-2518A>G",
+      "genotypes": "AG",
+      "RATING": "5",
+      "rsID ": "rs1024611",
+      "variant_summary": "Subjects carrying the AG or AA genotype are reported with typical susceptibility to SARS-CoV infection when compared to subjects with GG genotype [PMID: 25818534]",
+      "reference_pmid": "25818534"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "gene_variants": "DNR",
+      "genotypes": "AA",
+      "RATING": "DO NOT REPORT",
+      "rsID ": "rs1024611",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "25818534"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "Sl.No": "23",
+      "GENE ": "IL4",
+      "rsID ": "rs2070874",
+      "gene_variants": "-33 C>T",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": " 5 Prime UTR Variant",
+      "genotypes": "TT",
+      "RATING": "6",
+      "variant_summary": "You carry the -33T variant with at least one allele in its genotype.  This variant affects the promoter region of the IL4 gene which leads to increased expression of IL-4.   A meta-analyses of study looking for genetic risk factors for  tuberculosis, influenza, respiratory syncytial virus, SARS-Coronavirus and pneumonia identified this variant as significant for respiratory infections. Carrying this variant may increase your risk of developing SARS.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility  ",
+      "reference_pmid": "26524966"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "Gene_description": "Interleukin-4 (IL-4)is a cytokine that regulates humoral and adaptive immunity by stimulating the growth and differentiation of T and B cells, processes which are critical to developing an immune response to virus infection. However, overproduction of IL-4 is associated with development of immune disorders, particularly allergies and some autoimmune diseases including those manifested with respiratory inflammation.  \r\nA variant has been identified in the regulatory region of IL-4 that may result in overexpression of IL-4.  This variant has also been associated with respiratory infections for tuberculosis, influenza, respiratory syncytial virus, pneumonia and SARS-Coronavirus.  ",
+      "gene_variants": "'-33 C>T",
+      "genotypes": "CT",
+      "RATING": "6",
+      "rsID ": "rs2070874",
+      "reference_pmid": "26524966"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "gene_variants": "DNR",
+      "genotypes": "CC",
+      "RATING": "DO NOT REPORT",
+      "rsID ": "rs2070874",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "26524966"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "Sl.No": "24",
+      "GENE ": "CCL5",
+      "rsID ": "rs2280788 ",
+      "gene_variants": "DNR",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "c.-28C>G",
+      "genotypes": "CC",
+      "RATING": "DO NOT REPORT",
+      "variant_summary": "DO NOT REPORT",
+      "reference_pmid": "19258635",
+      "EXTRA notes and Comments": "RANTES gene is not found in Gene list "
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "Gene_description": "CCL5/RANTES (Regulated on activation, normal T cell expressed and secreted) is a chemokine that recruits immune cells to inflammatory site and is involved in many viral infections.  SARS-CoV-infected airway epithelial cells and macrophages express high levels of CCL5 which can amplify inflammatory responses toward immunopathology.\r\nA polymorphism in CCL5 is located at the NF-κB binding site which leads to elevated promoter activity and CCL5 expression in in CD8+ T cells, CD4+ T cells and monocytes/macrophages.  In a 2005 study of 495 SARS-CoV patients and 578 ethnically matched healthy controls where this polymorphism has been associated with not only increased susceptibility to SARS but also increased risk of death. A high level of CCL5 may predispose individuals to developing SARS and an increased risk of death. It has been suggested that high levels of RANTES may intensify lung inflammation, leading to severe clinical outcome among SARS patients and increase the risk of secondary infections that may contribute to the observed death rate.  High levels of CCL5 have also been shown to cause acute renal failure and liver toxicity which could also contribute to the increased death rate.  In a recent COVID-19 study, 10 critically ill patients had markedly elevated CCL5 levels compared to both healthy controls and mild or moderate COVID-19 patients.  These patients were treated with leronlimab which blocks CCR5, the receptor for CCL5, which reduced inflammation, restored T-cell lymphocytopenia and reduced SARS-CoV-2 viral levels.  This further suggests the potential for severe clinical outcomes for elevated CCL5 levels.",
+      "gene_variants": "-28C>G",
+      "genotypes": "CG",
+      "RATING": "7",
+      "rsID ": "rs2280788 ",
+      "variant_summary": "You carry the -28C>G variant allele.  This variant is located at the NF-κB binding site which leads to elevated promoter activity and RANTES expression and has been associated with increased susceptibility to developing SARS as well as increased risk of death from SARS.  In one study, the -28 CG and GG genotypes had an odds ratio of 3.28-fold and 3.08-fold, respectively, for increased SARS susceptibility and 2.12-fold and 4.01-fold increased risk of death from SARS. Leronlimab which blocks the action of CCL5 may be a potential treatment to reduce the risk of developing severe SARS.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility.  ",
+      "reference_pmid": "19258635, medRxiv 2020.05.02.20084673; doi: https://doi.org/10.1101/2020.05.02.20084673",
+      "EXTRA notes and Comments": "rs2280788 is taken from [PMID: 16855620 ] and it is referred as rs2280788: −28*C/G in the article"
+    },
+    {
+      "CATEGORY": "3. Inflammatory cytokine responses ",
+      "gene_variants": "-28C>G",
+      "genotypes": "GG",
+      "RATING": "7",
+      "rsID ": "rs2280788 ",
+      "reference_pmid": "19258635, medRxiv 2020.05.02.20084673; doi: https://doi.org/10.1101/2020.05.02.20084674"
+    },
+    {
+      "CATEGORY": "4. Other immune related responses",
+      "Sl.No": "27",
+      "GENE ": "FCGR2A",
+      "rsID ": "rs1801274",
+      "gene_variants": "H131R",
+      //"GENE VARIANTS/\r\nPOLYMORPHISM_1": "H131R\r\n\r\nhis131Arg",
+      "genotypes": "AA",
+      "RATING": "2",
+      "variant_summary": "You carry two copies of the A allele for the H131R variant (AA) which might have a protective role in the outcome of SARS infection ",
+      "reference_pmid": "16185324"
+    },
+    {
+      "CATEGORY": "4. Other immune related responses",
+      "Gene_description": "FCGR2A is expressed on a variety of immune cells and binds to the Fc regions of immunoglobulins and clears bacteria and viruses from circulation once they are recognized by antibodies.  FCGR2A is the receptor for the Fc portion of IgG IIA and an important mediator of humoral immune response regulating both the cellular response to infections as well as the uptake of immune complexes.  This clearance also triggers cytokine stimulation.   \r\nVariants of FCGR2A have been associated with susceptibility to inflammatory and infectious diseases.  This includes systemic lupus erythematosus, lupus nephritis, and ulcerative colitis as malaria infection and increased risks of severe respiratory tract infections from SARS Coronavirus.   ",
+      "gene_variants": "H131R",
+      "genotypes": "GA",
+      "RATING": "6",
+      "rsID ": "rs1801274",
+      "variant_summary": "You carry the H131R variant allele.  Individuals who carry one or more these variant alleles have been associated with have been associated with susceptibility to inflammatory and infectious diseases including severe SARS-CoV infection. In one study, the prevalence of a single variant allele was limited to patients with mild SARS while severe SARS (half of SARS ICU patients) was associated with individuals that carried two copies of the H131R variant allele.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility.",
+      "reference_pmid": "16185324, 17913858 ",
+      "CATEGORY DESCRIPTION": "The remaining genes are listed separately as they either are involved later phases of the immune response or have more indirect roles in the immune response to coronavirus infection."
+    },
+    {
+      "CATEGORY": "4. Other immune related responses",
+      "gene_variants": "H131R",
+      "genotypes": "GG",
+      "RATING": "7",
+      "rsID ": "rs1801274",
+      "reference_pmid": " 16185324 , 17913858"
+    },
+    {
+      "CATEGORY": "4. Other immune related responses",
+      "Sl.No": "31",
+      "GENE ": "CYP4F3",
+      "rsID ": "rs3794987",
+      "gene_variants": "'G>A",
+      "genotypes": "GG",
+      "RATING": "4",
+      "variant_summary": "You carry the 987 GG or GA genotypes of the variant allele.  These two variant alleles was associated with an increased susceptibility to SARS in Healthcare Workers with an odds ratio of 2.01 but this association was not observed in other populations.   The combined analysis of the two studies does not show a significant association of the 987G variant allele with SARS susceptibility.  The influence of this CYP4F3 on SARS susceptibility is unclear.\r\nFurther functional and clinical studies and other relevant data may help in ascertaining the role (if any) of this variant in the virus susceptibility.",
+      "reference_pmid": "PMID: 21904596 ",
+      "EXTRA notes and Comments": "The combined analysis of the two studies does not show any association of the CYP4F3 SNPs analyzed with SARS susceptibility"
+    },
+    {
+      "CATEGORY": "4. Other immune related responses",
+      "Gene_description": "CYTOCHROME P450, FAMILY 4, SUBFAMILY F, POLYPEPTIDE 3 is a member of the cytochrome P450 superfamily of enzymes which catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids. CYP4F3 catalyzes the omega-hydroxylation of the potent inflammatory factor leukotriene B4. (LTB4) thereby inactivating it.  Removal of excess LTB4 important for the prevention of immunologic damage.\r\nIn vitro studies suggested that CYP4F3 may interact with the SARS CoV nucleocapsid protein and impact the pulmonary inflammation associated with SARS CoV infection.   A variant of CYP4F3 was shown to be associated with an increased susceptibility to SARS, but was not confirmed in other populations.  The influence of this CYP4F3 on SARS susceptibility is unclear.",
+      "gene_variants": "'G>A",
+      "genotypes": "AG",
+      "RATING": "4",
+      "rsID ": "rs3794987",
+    },
+    {
+      "CATEGORY": "4. Other immune related responses",
+      "gene_variants": "DNR",
+      "genotypes": "AA",
+      "RATING": "DO NOT REPORT",
+      "rsID ": "rs3794987",
+      "variant_summary": "DO NOT REPORT"
+    },
+
+    category_description: [
+      { "Susceptibility to Coronavirus Infection":
+        "Viruses infect cells by hijacking your cellular machinery for its own use.  This includes the virus binding to a naturally occurring receptor on your cell surfaces, internalizing the virus and providing an environment to reproduce its genome as well as all of its viral components. New viruses are assembled then secreted from the cell for subsequent amplification and spread of infection.  There are several ways that virus infection can be disrupted and we have identified 5 genes and a number of variants that may impact coronavirus replication.  The most studied gene impacting coronavirus infection is the ACE2 gene which is the cellular receptor for these viruses including SARS CoV-2.  We have analyzed you for 14 different variants within the ACE2 gene some of which reduce infectivity by the virus and others that promote or correlate with infectivity or infected individuals.  The ANPEP gene has also been identified as another potential receptor to the virus. "
+      },
+
+      {
+        "Innate Immunity and Antiviral Defense":
+      "The innate immunity is our first line of defense against pathogens and viruses such as SARS-CoV-2.  The main purpose of the innate immune responses is to immediately prevent the spread and movement of foreign pathogens throughout the body before they can start an infection.  These defenses can be physical, chemical or cellular.  Your skin, epithelial cells, and mucus are examples of the physical barrier between the inside of the body and the outside world and protect us from infections.  There are several different kinds of proteins that serve as chemical defenses.  These include the intracellular enzymes and proteins that may disrupt viral replication and secretion.  There are a number of circulating molecules in that recognize conserved features of pathogens that are not normally present in our bodies. Upon binding to the pathogen-specific features can trigger a cascade of responses such as complement activation which disrupts the membrane or viral coat of the microorganism or attract immune cells to a specific location for ingestion and destruction and , or to produce an inflammatory response to trigger the adaptive immune response, the second line of defense which is responsible for a more targeted attack on the pathogen including recruitment of cells with killing activity and production of specific antibodies."
+      },
+
+      {
+        "Inflammatory cytokine responses":
+      "Pro-inflammatory and anti-inflammatory cytokines are chemical mediators responsible for orchestrating the next phase of defense against infecting pathogens including the production and elevation of body temperature. They are produced transiently and locally and control the amplitude and duration of the immune response. They are responsible for and specific functions of these molecules on different cell types and controlled regulation make it possible for the coordinated recruitment and activation of an entire network of immune cells for subsequent engagement of the adaptive immune response.  
+ 
+      Inappropriate expression of cytokines may lead to overzealous inflammatory responses and ultimately to severe and chronic inflammatory conditions, such as asthma, COPD, autoimmune diseases, and SARS."
+      },
+
+      {
+        "Other immune related responses":
+      "The remaining genes are listed separately as they either are involved later phases of the immune response or have more indirect roles in the immune response to coronavirus infection."
+      }
+
+    ]
+
+    gene_description: [
+      {
+        "ACE2":
+        "ANGIOTENSIN I-CONVERTING ENZYME 2 (ACE2) is an enzyme attached to the outer surface of cells in the lungs, arteries, and intestines that lowers blood pressure by converting angiotensin II (a vasoconstrictor peptide) into angiotensin (1-7) (a vasodilator).  ACE2 also serves as the site of cell entry for some coronaviruses, including SARS-CoV-2, the virus that causes COVID-19.  The spike protein of the virus attaches to the enzymatic domain of ACE2 and cleavage of the spike protein by a host protease (TMPRSS2) triggers subsequent internalization of the virus into the cell for further replication and infection.  Variants in ACE2 can be detrimental to virus infection by either affecting the binding of the virus particle to ACE2, the accessibility of the host protease to the spike cleavage site of the virus, or the ability to be internalized."
+      },
+      {
+        "ANPEP": "Alanyl aminopeptidase, or aminopeptidase N is also a potent angiogenic regulator which also plays a role in the final digestion of peptides generated from hydrolysis of proteins by gastric and pancreatic proteases and has been implicated in acting as a receptor to some coronaviruses.  However, no link to SARS-CoV-2 has been made to date and the mechanism for virus entry is not known."
+      },
+      {
+        "OAS1": "2-PRIME,5-PRIME-OLIGOADENYLATE SYNTHETASE 1 is a key antiviral enzyme that is induced by interferons.  OAS restricts viral infection by binding to double stranded RNA (dsRNA) which triggers subsequent binding and activation of RNase L resulting in the degradation of viral RNA and inhibition of viral replication.  Variants in OAS have been shown limit HCV virus infection and are also associated with protection from persistent SARS CoV infection."
+      },
+      {
+        "MX1": "MX1 gene encodes Myxovirus resistance A (MxA) which is a GTPase induced by interferon α and β (IFN-α, IFN-β) that can inhibit viral replication.  MxA inhibits a broad spectrum of viruses and although the precise molecular mechanism of virus inhibition is not known, it likely involves assembly of a multimeric structure that binds to the virus during transcription and replication."
+      },
+      {
+        "MBL2": "Mannose-binding lectin (MBL) protein 2 is a serum protein that is part of the acute-phase response to viral and bacterial infections.  MBL2 contains carbohydrate binding sites which specifically match up to mannose and fucose residues in bacterial cell walls and viral particles which upon binding triggers inflammatory responses to destroy the virus or bacteria.   The amounts of MBL in human plasma are genetically determined Variant alleles causing low plasma concentrations of functional MBL have been shown to be associated in both children and adults with an increased risk of developing infections. Genetic variants have been associated with lower than normal levels of serum mannose-binding lectin (MBL) levels are associated with an increased susceptibility to SARS."
+      },
+      {
+        "AHGS": "Alpha-2-HS-glycoprotein (AHSG) is also known as fetuin-A and encodes a multifunctional phosphorylated extracellular calcium-regulatory glycoprotein that is an acute phase protein that is negatively regulated during infection or other inflammatory illness.  AHSG levels decrease in response to several proinflammatory cytokines such as TNF, IL-1, IL-6 and IFN-γ.  Patients with other inflammatory diseases such as pancreatitis, chronic kidney diseases, and rheumatoid arthritis display decreased levels of AHSG.  AHSG deficiency is also associated with chronic kidney disease and contributes to vascular complications  In these inflammatory diseased patients, circulating AHSG levels negatively correlated with levels of cytokines (such as IL-6), and associated with increased mortality rates. 
+      In vitro experiments suggest that SARS-CoV nucleocapsid protein can associate with AHSG thereby neutralizing the pro-inflammatory effect of the SARS nucleocapsid protein since AHSG is so abundant in the serum (0.2–0.55 mg/ml).
+      One specific genotype affects the transcriptional activity of the AHSG promoter which leads to a higher AHSG serum concentrations and has been associated with protection against SARS development while other genotypes in this region have been associated with susceptibility to SARS.    
+      Another polymorphism of AHSG located within the coding region is associated with an increased susceptibility of developing clinically apparent SARS but the mechanism by which susceptibility is increased is unknown."},
+      {
+          "CD14": "CD14 is also known as the monocyte differentiation antigen which detects bacteria in the body by binding to lipopolysaccharide (LPS), a component of the bacterial cell surface and results in cellular activation and production of proinflammatory mediators and protection from infection.  Elevated levels of CD14 has been implicated in sepsis, toxic shock syndrome, and other acute inflammatory responses.
+      A polymorphism in CD14 can decrease CD14 levels and the inflammatory response following LPS stimulation.  This polymorphism is also associated with the severity of SARS-CoV infection where patients homozygous for the polymorphism were submitted to the Intensive Care Unit suggesting that reduced CD14 levels may contribute to have reduced antiviral activity and thus experience enhanced viral toxicity, resulting in a more severe form of SARS-CoV infection, but the exact mechanism of CD14 in response to viruses is not clear."},
+      {
+            "IFNG": "Interferon-gamma (IFN-G) is a cytokine critical for innate and adaptive immunity against viral and intracellular bacterial infections and for tumor control.  The importance of IFN-G in the immune system stems in part from its ability to inhibit viral replication directly, but most importantly derives from its immunostimulatory and immunomodulatory effects. IFN-G is produced predominantly by natural killer (NK) and natural killer T (NKT) cells as part of the innate immune response, and by CD4 and CD8 cytotoxic T lymphocyte (CTL) effector T cells once antigen-specific immunity develops.  Aberrant IFN-G expression is associated with a number of autoinflammatory and autoimmune diseases.
+      IFN-G may be involved in SARS pathogenesis and variants in the IFN-G gene impact the regulation of its gene expression where low IFN-G production may impair the anti-viral response against SARS-CoV, rendering these individuals more susceptible to SARS-CoV infection."},
+      {
+              "CCL2": "CCL-2/ Monocyte chemotactic protein-1 (MCP1) is a chemokine that plays a role in innate immunity by recruiting monocytes, macrophages and T-lymphocyte in acute inflammatory responses. Overexpression of MCP1 is one of the most prominent chemokines upregulated in SARS-CoV infected lung epithelial cells and is overexpressed in the plasma of SARS patients.    
+      A polymorphism in CCL-2 is located adjacent to a key promoter element and produces elevated MCP1.  This polymorphism has been reported to be associated with increased susceptibility or severity of diseases such as asthma, atherosclerosis, diabetes, and rheumatoid arthritis.  Carriers of this variant may explain the observed elevated CCL2 levels and the correlation with more advanced disease severity of SARS patients."},
+      {
+                "IL4": "Interleukin-4 (IL-4)is a cytokine that regulates humoral and adaptive immunity by stimulating the growth and differentiation of T and B cells, processes which are critical to developing an immune response to virus infection. However, overproduction of IL-4 is associated with development of immune disorders, particularly allergies and some autoimmune diseases including those manifested with respiratory inflammation.  
+      A variant has been identified in the regulatory region of IL-4 that may result in overexpression of IL-4.  This variant has also been associated with respiratory infections for tuberculosis, influenza, respiratory syncytial virus, pneumonia and SARS-Coronavirus."},
+      {
+                  "CCL5": "CCL5/RANTES (Regulated on activation, normal T cell expressed and secreted) is a chemokine that recruits immune cells to inflammatory site and is involved in many viral infections.  SARS-CoV-infected airway epithelial cells and macrophages express high levels of CCL5 which can amplify inflammatory responses toward immunopathology.
+      A polymorphism in CCL5 is located at the NF-κB binding site which leads to elevated promoter activity and CCL5 expression in in CD8+ T cells, CD4+ T cells and monocytes/macrophages.  In a 2005 study of 495 SARS-CoV patients and 578 ethnically matched healthy controls where this polymorphism has been associated with not only increased susceptibility to SARS but also increased risk of death. A high level of CCL5 may predispose individuals to developing SARS and an increased risk of death. It has been suggested that high levels of RANTES may intensify lung inflammation, leading to severe clinical outcome among SARS patients and increase the risk of secondary infections that may contribute to the observed death rate.  High levels of CCL5 have also been shown to cause acute renal failure and liver toxicity which could also contribute to the increased death rate.  In a recent COVID-19 study,
+                  10 critically ill patients had markedly elevated CCL5 levels compared to both healthy controls and mild or moderate COVID-19 patients.  These patients were treated with leronlimab which blocks CCR5, the receptor for CCL5, which reduced inflammation, restored T-cell lymphocytopenia and reduced SARS-CoV-2 viral levels.  This further suggests the potential for severe clinical outcomes for elevated CCL5 levels."},
+      {
+                    "FCGR2A": "FCGR2A is expressed on a variety of immune cells and binds to the Fc regions of immunoglobulins and clears bacteria and viruses from circulation once they are recognized by antibodies.  FCGR2A is the receptor for the Fc portion of IgG IIA and an important mediator of humoral immune response regulating both the cellular response to infections as well as the uptake of immune complexes.  This clearance also triggers cytokine stimulation.   
+      Variants of FCGR2A have been associated with susceptibility to inflammatory and infectious diseases.  This includes systemic lupus erythematosus, lupus nephritis, and ulcerative colitis as malaria infection and increased risks of severe respiratory tract infections from SARS Coronavirus."},
+      {
+                      "CYP4F3": "CYTOCHROME P450, FAMILY 4, SUBFAMILY F, POLYPEPTIDE 3 is a member of the cytochrome P450 superfamily of enzymes which catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids. CYP4F3 catalyzes the omega-hydroxylation of the potent inflammatory factor leukotriene B4. (LTB4) thereby inactivating it.  Removal of excess LTB4 important for the prevention of immunologic damage.
+      In vitro studies suggested that CYP4F3 may interact with the SARS CoV nucleocapsid protein and impact the pulmonary inflammation associated with SARS CoV infection.   A variant of CYP4F3 was shown to be associated with an increased susceptibility to SARS, but was not confirmed in other populations.  The influence of this CYP4F3 on SARS susceptibility is unclear."}
+    ]
+
+  
