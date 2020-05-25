@@ -13,4 +13,19 @@
      width: 100px;
  }
 
+ table, th, td {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px;
+  text-align: center;
+}
+
+th {
+  border: none;
+  background-color: #ddd;
+}
+
 /* Start Quoc's part */
