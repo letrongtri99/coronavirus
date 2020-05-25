@@ -1,6 +1,16 @@
 /* Start Tri's part */
 
 /* Start Tuan's part */
-
+ .figure ul li {
+     text-decoration: none;
+     list-style-type: none;
+ } 
+  .figure li {
+    float: left;
+    width: 100px;
+  }
+ .images {
+     width: 100px;
+ }
 
 /* Start Quoc's part */
