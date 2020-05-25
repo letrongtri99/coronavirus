@@ -1,4 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 /* Start Tri's part */
+.container {
+    width: 711px;
+    margin-left: 55px;
+    margin-right: 50px;
+}
+.title_table {
+    font-weight: bold;
+    color: #2c99c2;
+    background-color: #7ccff72b;
+    padding: 5px;
+}
+.content{
+    padding-top:8px;
+    padding-left: 12px;
+}
+.table_gene{
+    border-collapse: collapse;
+}
+.table_gene th{
+    text-align: center;
+    padding: 0px 12px;
+    font-weight: bold;
+}
+.table_gene td{
+    text-align: center;
+    padding: 20px;
+}
+.head_gray{
+    color: #2c99c2;
+    background-color:#dadce0;
+}
+.head_blue{
+    color: #2c99c2;
+    background-color:#7ccff72b;
+}
+.table_picture{
+    margin-top:20px;
+    overflow: auto;
+}
+.picture_table{
+    float: right;
+    width: 28%;
+}
 
 /* Start Tuan's part */
  .figure ul li {
