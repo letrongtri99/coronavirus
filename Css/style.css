@@ -47,6 +47,15 @@
     float: right;
     width: 28%;
 }
+.result_left{
+    border-left: 6px solid #74c9e8;
+    padding-left:10px;
+    padding-top:5px;
+}
+.your_results{
+    padding-left: 15px;
+    margin-top: 10px;
+}
 
 /* Start Tuan's part */
  .figure ul li {
