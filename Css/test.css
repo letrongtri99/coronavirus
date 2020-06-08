@@ -1,0 +1,53 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+}
+
+header {
+	background-image: url("../images/header_left.png");
+	background-repeat: no-repeat;
+    height: 200px;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+header span img {
+	position: absolute;
+    left: 20%;
+    top: 60px;
+    height: 100px;
+}
+
+header .rowhead {
+	position: absolute;
+    right: 100px;
+    top: 70px;
+}
+
+header span .colhead {
+	float: left;
+	list-style: none;
+	margin-right: 15px;
+    font-size: 18px;
+}
+
+footer {
+	background-image: url("../images/footerleft.png");
+	background-repeat: no-repeat;
+    height: 200px;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+footer .rowfoot {
+	position: absolute;
+	right: 100px;
+	bottom: 35px;
+}
+
+
+
+
+

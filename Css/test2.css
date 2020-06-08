@@ -1,0 +1,54 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+}
+
+header {
+	background-image: url("../images/headerright.png");
+	background-repeat: no-repeat;
+    height: 200px;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+header span img {
+	position: absolute;
+    left: 5%;
+    top: 60px;
+    height: 100px;
+}
+
+header .rowhead {
+	position: absolute;
+    right: 270px;
+    top: 70px;
+}
+
+header span .colhead {
+	float: left;
+	list-style: none;
+	margin-right: 15px;
+    font-size: 18px;
+}
+
+footer {
+	background-image: url("../images/footerright.png");
+	background-repeat: no-repeat;
+    height: 200px;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+footer .rowfoot {
+	position: absolute;
+	left: 5%;
+	bottom: 35px;
+}
+
+
+
+
+
+
