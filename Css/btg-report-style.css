@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    /* width: 711px; */
+    margin-left: 55px;
+    margin-right: 50px;
+  }
+.introduction {
+    margin-left: 345px;
+    margin-right: 350px;
+}
+
+.first-body {
+    margin-top: 20px;
+}
+
+.second-body {
+    margin-top: 20px;
+}
+
+.third-body {
+    margin-top: 50px;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.understanding-your-report-title {
+    margin-top: 20px;
+    color: #00A1DA;
+}
+
+.text-very-important {
+    color:#FF0000;
+}
+
+.text-important {
+    color: #FF9900;
+}
+
+.text-noteworthy {
+    color: #99CC00;
+}
+
+.text-title {
+    color: #0099CC;
+}
+
+.text-detail {
+    text-align: justify;
+}
+
+.text-disease-detail {
+    margin-top: 20px;
+    text-align: justify;
+}
+.understanding-your-report-body .disease-groups-col-left {
+    margin-top: 30px;
+    width: 44%;
+    float: left;
+}
+
+.understanding-your-report-body .disease-groups-col-right {
+    margin-top: 30px;
+    margin-left: 7%;
+    width: 44%;
+    float: left;
+}
+
+.understanding-your-report-body-title {
+    color: #00A1DA;
+}
+
+.disease-text-overall-title {
+    color: #33CCCC;
+    font-weight: bold;
+}
+
+.disease-text-overall {
+    margin-bottom: 25px;
+}
+
+.disease-text-overall p {
+    line-height: 1.5;
+    font-size: 14px;
+}
+
+.traits-details {
+    margin-top: 40px;
+    clear: both;
+}
+
+.traits-detail-body .image-detail {
+    margin-right: 1%;
+    float: left;
+    width: 5%;
+}
+
