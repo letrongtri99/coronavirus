@@ -1,0 +1,41 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+}
+
+section {
+	background-image: url("../images/body.png");
+	background-repeat: no-repeat;
+    height: 600px;
+    background-size: 100% 100%;
+    position: relative;
+}
+
+section .body {
+	position: absolute;
+	left: 20%;
+	font-size: 30px;
+	width: 755px;
+}
+
+section .body .title {
+	font-weight: bolder;
+    color: deepskyblue;
+    padding-bottom: 30px;
+    font-size: 33px;
+}
+
+section .body .haha {
+	font-weight: bolder;
+}
+
+section .body .haha .hehe {
+	padding-left: 20px;
+	font-weight: 100;
+}
+
+section .body .haha .space {
+	height: 20px;
+}

@@ -1,0 +1,54 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	vertical-align: middle;
+}
+
+header {
+	position: relative;
+	height: 300px;
+}
+
+header .img1 img {
+	position: absolute;
+    right: 0%;
+    height: 300px;
+    width: 45%;
+}
+
+header .img2 img {
+	position: absolute;
+    left: 5%;
+    top: 60px;
+    height: 150px;
+}
+
+section {
+	background-image: url("../images/tag.png");
+	background-repeat: no-repeat;
+    height: 1200px;
+    background-size: 100% 40%;
+    position: relative;
+}
+
+section .img3 img {
+	position: absolute;
+	right: 0%;
+	bottom: 0%;
+}
+
+section div .table {
+	position: absolute;
+	left: 29%;
+	top: 10%;
+	font-size: 31px;
+}
+
+section div .table td {
+	padding-right: 18px;
+}
+
+section div .table .blue {
+	color: deepskyblue;
+}	
